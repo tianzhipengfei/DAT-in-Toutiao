@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		C1E71DC320F9841D001C3B18 /* dic1 */ = {isa = PBXFileReference; lastKnownFileType = text; path = dic1; sourceTree = "<group>"; };
 		C1F5DE9D20F886B700D2658C /* DAT in Toutiao */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "DAT in Toutiao"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C1F5DEA020F886B700D2658C /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				C1F5DEA020F886B700D2658C /* main.cpp */,
+				C1E71DC320F9841D001C3B18 /* dic1 */,
 			);
 			path = "DAT in Toutiao";
 			sourceTree = "<group>";
